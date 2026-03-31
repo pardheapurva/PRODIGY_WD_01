@@ -18,6 +18,13 @@
     z-index: 1000;
 }
 
+/* Style when scrolled */
+#navbar.scrolled {
+    background-color:#154305;
+    color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
 /* LOGO */
 .logo {
     font-size: 24px;
